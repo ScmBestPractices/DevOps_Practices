@@ -1,3 +1,4 @@
 This is a sample file with respec to sample project 
 Just rename the file name 
 Search for a given string in a file (case in-sensitive search).
+Udpate the naming convention 
