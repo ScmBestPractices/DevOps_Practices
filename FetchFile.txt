@@ -1,3 +1,4 @@
 This is just Fetch text file 
 This's Personal access tokens
 git remote add upstream https://github.com/ScmBestPractices/Source-repository.git
+https://github.com/ScmBestPractices/projectfile.git
